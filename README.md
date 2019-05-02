@@ -17,4 +17,11 @@
 1. ดาวน์โหลด Application Blynk จาก App Store
 2. ใช้ Blynk สแกน QR Code นี้ เพื่อ Clone การควบคุม Project<br>
 ![](IMG/QR-Blynk.png)
-3. จากนั้นจะแสดงผลดังนี้ ให้กดเข้าไปที่ ตัวน็อตซึ่งจะเป็น menu setting
+3. จากนั้นจะแสดงผลดังนี้ ให้กดเข้าไปที่ ตัวน็อตซึ่งจะเป็น menu setting<br>
+![](IMG/IB1.jpg)
+4. กด Email all ดังรูปเพื่อส่ง Token ไปที่ Email
+![](IMG/IB3.jpg)
+5. หลังจากเข้าไป Copy Token จาก Email แล้ว ให้นำไปใส่ใน Source Code ดังนี้<br>
+![](IMG/IB4.png)
+6. เมื่อแก้ไขและ Upload ไปที่บอร์ดแล้ว ให้กดปุ่มสามเหลี่ยมด้านขวาบน<br>
+![](IMG/IB2.jpg)

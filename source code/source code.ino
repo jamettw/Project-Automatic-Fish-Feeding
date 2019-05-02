@@ -5,9 +5,9 @@
 #include <WidgetRTC.h>
 #include <Servo.h>
 
-char auth[] = "41a961dafd444f55a83317f782ea537a";
-char ssid[] = "HUAWEI Mate 10 Pro";
-char pass[] = "253131jjj";
+char auth[] = "ใส่ Token ที่นี่";
+char ssid[] = "ใส่ ชื่อ WIFI ที่นี่";
+char pass[] = "ใส่ รหัส WIFI ที่นี่";
 
 int check = 0;
 int totalsec = 0;
