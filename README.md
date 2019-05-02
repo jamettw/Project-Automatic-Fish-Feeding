@@ -26,7 +26,8 @@
 6. เมื่อแก้ไขและ Upload ไปที่บอร์ดแล้ว ให้กดปุ่มสามเหลี่ยมด้านขวาบนจะเข้าไปหน้าใช้งาน<br>
 ![](IMG/IB2.jpg)
 ## How to use
-สามารถรับชมตัวอย่างการใช้งานได้จากคลิปด้านล่าง <br>
+สามารถรับชมตัวอย่างการใช้งานได้จากคลิปด้านล่าง
+URL : https://www.youtube.com/watch?v=Tpnlty0UGdk<br>
 [![](http://img.youtube.com/vi/Tpnlty0UGdk/0.jpg)](http://www.youtube.com/watch?v=Tpnlty0UGdk "")
 ## Team Members
 |  |ชื่อ|นามสกุล|GitHub Username|รหัสนักศึกษา|
