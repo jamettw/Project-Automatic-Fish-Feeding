@@ -19,7 +19,7 @@
 ![](IMG/QR-Blynk.png)
 3. จากนั้นจะแสดงผลดังนี้ ให้กดเข้าไปที่ ตัวน็อตซึ่งจะเป็น menu setting<br>
 ![](IMG/IB1.jpg)
-4. กด Email all ดังรูปเพื่อส่ง Token ไปที่ Email
+4. กด Email all ดังรูปเพื่อส่ง Token ไปที่ Email<br>
 ![](IMG/IB3.jpg)
 5. หลังจากเข้าไป Copy Token จาก Email แล้ว ให้นำไปใส่ใน Source Code ดังนี้<br>
 ![](IMG/IB4.png)
