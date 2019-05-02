@@ -26,3 +26,4 @@
 6. เมื่อแก้ไขและ Upload ไปที่บอร์ดแล้ว ให้กดปุ่มสามเหลี่ยมด้านขวาบนจะเข้าไปหน้าใช้งาน<br>
 ![](IMG/IB2.jpg)
 ## How to use
+[![](http://img.youtube.com/vi/bqOfdv9i4sE/0.jpg)](http://www.youtube.com/watch?v=bqOfdv9i4sE "")
