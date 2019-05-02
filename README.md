@@ -1,1 +1,1 @@
-# ![](IMG/FISH.jpg) # Automatic Fish Feeding
+# ![](IMG/Fish.jpg) # Automatic Fish Feeding
