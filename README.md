@@ -15,4 +15,6 @@
 * ระบบตั้งเวลาให้อาหาร
 ## Installation & Setting Blynk
 1. ดาวน์โหลด Application Blynk จาก App Store
-2. ใช้ Blynk สแกน QR Code นี้ เพื่อ Clone การควบคุม Project
+2. ใช้ Blynk สแกน QR Code นี้ เพื่อ Clone การควบคุม Project<br>
+![](IMG/QR-Blynk.png)
+3. จากนั้นจะแสดงผลดังนี้ ให้กดเข้าไปที่ ตัวน็อตซึ่งจะเป็น menu setting
